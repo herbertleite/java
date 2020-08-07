@@ -1,3 +1,0 @@
-Ronaldo, masculino, 13/07/1986, soltero, 123456789, 96669582, Rua grande n1, jow@tromundo.com, ativo
-Marco, masculino, 22/10/1980, casado, 12123132, 92623533, Rua jacaré n72, blabla@lol.com, ativo
-Eloiza, femenino, 23/12/1992, soltera, 32123123, 934432123, Avenida pavimentada n22 apt227, sexyeloiza@hotmail.com, ativo
